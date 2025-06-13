@@ -3,9 +3,11 @@ Repositorio para el control de versiones del proyecto "MiBolsillo", trabajado po
 
 # **👥 Integrantes**  
 
-| Name | Role | CV´s |
-|Brayan Palma Aboytes|Scrum master|link:|
-|Oscar Ulises Ramirez Cruz|Developer|link:|
+| Name                    | Role       | CV´s                                         |
+|-------------------------|------------|----------------------------------------------|
+|Brayan Palma Aboytes     |Scrum master|link:                                         |
+|Oscar Ulises Ramirez Cruz|Developer   |link:                                         |
+|-------------------------|------------|----------------------------------------------|
 
 
 # Tecnologías
