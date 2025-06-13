@@ -59,10 +59,3 @@ Se aplica la metodología **Scrum** por su enfoque iterativo e incremental, idea
 - **Controlador:** Code-behind que conecta la vista con la lógica.
 
 ---
-
-## Equipo del Proyecto
-
-- **Brayan Palma Aboytes:** Scrum Master  
-- **Oscar Ulises Ramírez Cruz:** Desarrollador FullStack
-
----
