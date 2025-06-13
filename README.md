@@ -1,7 +1,10 @@
-# MiBolsillo
-Repositorio para el control de versiones del proyecto "MiBolsillo", trabajado por Brayan Palma y Oscar Ramirez
+# MiBolsillo – Descripción del Proyecto
 
-# **👥 Integrantes**  
+**MiBolsillo** es una aplicación web desarrollada en .NET, diseñada para ayudar a individuos y familias a gestionar sus finanzas personales. Su propósito es ofrecer una herramienta sencilla pero poderosa para registrar ingresos, gastos y visualizar hábitos de consumo con claridad.
+
+---
+
+## **👥 Integrantes**  
 
 | Name                    | Role       | CV´s                                         |
 |-------------------------|------------|----------------------------------------------|
