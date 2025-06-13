@@ -41,7 +41,7 @@ Se aplica la metodología **Scrum** por su enfoque iterativo e incremental, idea
 
 - **.NET (ASP.NET Web Forms)** – Backend y capa de presentación.
 - **GitHub** – Control de versiones, Pull Requests e Issues.
-- **Trello** – Gestión visual de tareas y progreso.
+- **Trello** – Gestión visual de tareas y progreso. <a href="https://trello.com/b/djA8zJT9/desarrollo-web-integral"> Acceder</a>
 - **ADO.NET / LINQ to SQL** – Acceso a datos.
 
 ---
